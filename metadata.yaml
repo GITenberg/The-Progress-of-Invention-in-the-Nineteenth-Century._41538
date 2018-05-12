@@ -1,0 +1,40 @@
+_repo: The-Progress-of-Invention-in-the-Nineteenth-Century._41538
+_version: 0.1.0
+alternative_title: The Progress of Invention in the 19th Century
+covers:
+- cover_type: archival
+  image_path: 41538-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Byrn, Edward W. (Edward Wright)
+    alias: Byrn, Edward Wright
+    birthdate: 1849
+    deathdate: 1921
+    gutenberg_agent_id: '41228'
+    url: http://www.gutenberg.org/2009/agents/41228
+description: ''
+gutenberg_issued: '2012-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41538'
+  lccn: 00005918
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inventions -- History'
+- !lcc 'T'
+- !lcsh 'Inventions -- History -- 19th century'
+tableOfContents: The perspective view -- Chronology of leading inventions in the nineteenth
+  century -- The electric telegraph -- The Atlantic cable -- The dynamo and its applications
+  -- The electric motor -- The electic light -- The telephone -- Electricity, miscellaneous
+  -- The steam engine -- The steam railway -- Steam navigation -- Printing -- The
+  typewriter -- The sewing machine -- The reaper -- Vulcanized rubber -- Chemistry
+  -- Food and drink -- Medicine, surgery and sanitation -- The bicycle and automobile
+  -- The phonograph -- Optics -- Photography -- The Roentgen or X-Rays -- Gas lighting
+  -- Civil engineering -- Woodworking -- Metal working -- Fire arms and explosives
+  -- Textiles -- Ice machines -- Liquid air -- Minor inventions, and patents of principal
+  countries of the world -- Epilogue.
+title: The Progress of Invention in the Nineteenth Century.
+url: http://www.gutenberg.org/ebooks/41538
